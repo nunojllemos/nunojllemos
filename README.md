@@ -11,6 +11,10 @@ I used to say:
 I **used** to say that!  
 Not anymore 🥳 now I am pointing for a **frontend position**.
 
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunojllemos&layout=compact&theme=dracula)](https://github.com/nunojllemos/github-readme-stats)
+***
+
  ## Interests 👍
 
 📜 MERN stack
