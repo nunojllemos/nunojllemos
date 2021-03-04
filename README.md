@@ -1,6 +1,12 @@
 ![Javascript Console Application](https://i.imgur.com/HY3wyBG.png)
 
-# Hi 👋 I'm Nuno 👦🏻
+# Hi 👋 I am Nuno 👦🏻
+## Welcome to my repo 💾
+Always loved the computer side of life and curiosity brought me here in first place.
+Now passion drives me through an infinite learning path. I'm currently trying to be a frontend developer.
+
+
+
 <!--
 **nunojllemos/nunojllemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
