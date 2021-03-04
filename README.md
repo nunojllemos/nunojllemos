@@ -1,5 +1,6 @@
-### Hi there 👋
-<img style="text-align:center" src="https://i.imgur.com/FfM3wTU.png">
+<div style="text-align:center">
+  <img src="https://i.imgur.com/FfM3wTU.png">
+</div>
 <!--
 **nunojllemos/nunojllemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
