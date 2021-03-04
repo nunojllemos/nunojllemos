@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Console application](https://i.imgur.com/P1Z1Gqp.png)
+<img style="text-align:center" src="https://i.imgur.com/FfM3wTU.png">
 <!--
 **nunojllemos/nunojllemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
