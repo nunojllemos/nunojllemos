@@ -1,6 +1,5 @@
-<div style="text-align:center; width:100%;">
-  <img src="https://i.imgur.com/FfM3wTU.png">
-</div>
+![Javascript Console Application](https://i.imgur.com/HY3wyBG.png)
+
 <!--
 **nunojllemos/nunojllemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
