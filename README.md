@@ -5,8 +5,8 @@
 I always loved the computer side of life and curiosity brought me here in first place.
 Now passion drives me through an infinite learning path and I'm loving each step of it.
 
-I used to say _I am 29 and I still don't know what I wanna be when I grow up_.
-I **used** to say that!
+I used to say _I am 29 and I still don't know what I wanna be when I grow up_.  
+I **used** to say that!  
 Not anymore 🥳 now I am pointing for a frontend position.
 
 ## Facts & Goals 🎯
