@@ -1,6 +1,6 @@
 ![Javascript Console Application](https://i.imgur.com/HY3wyBG.png)
 
-### Hi 👋 I'm Nuno 👦🏻
+# Hi 👋 I'm Nuno 👦🏻
 <!--
 **nunojllemos/nunojllemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
