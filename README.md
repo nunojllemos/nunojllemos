@@ -29,5 +29,4 @@ Not anymore 🥳 now I am pointing for a **frontend position**.
 
 ***
 
-# Thank you for passing by! 
-# See you around 👋🏻
+# Thank you for passing by!  See you around 👋🏻
