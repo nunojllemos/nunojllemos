@@ -2,8 +2,24 @@
 
 # Hi 👋 I am Nuno 👦🏻
 ## Welcome to my repo 💾
-Always loved the computer side of life and curiosity brought me here in first place.
-Now passion drives me through an infinite learning path. I'm currently trying to be a frontend developer.
+I always loved the computer side of life and curiosity brought me here in first place.
+Now passion drives me through an infinite learning path and I'm loving each step of it.
+
+I used to say _I am 29 and I still don't know what I wanna be when I grow up_. 
+I **used** to say that!
+Not anymore 🥳
+
+## Facts & Goals 🎯
+
+📚 currently developing my React skills.
+
+💻 trying to get my first job as a developer.
+
+🔮 looking forward to become a full stack developer.
+
+ ## Interests 👍
+
+
 
 
 
