@@ -1,6 +1,7 @@
 ![Javascript Console Application](https://i.imgur.com/HY3wyBG.png)
 
 # Hi 👋🏻 I'm Nuno 👦🏻
+***
 ## Welcome to my repo 💾
 I always loved the computer side of life and curiosity brought me here in first place.
 Now passion drives me through an infinite learning path and I'm loving each step of it.
@@ -29,4 +30,4 @@ Not anymore 🥳 now I am pointing for a **frontend position**.
 
 ***
 
-# Thank you for passing by!  See you around 👋🏻
+# Thank you for passing by! 👋🏻
