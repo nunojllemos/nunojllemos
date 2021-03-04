@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Tux, the Linux mascot](https://htmlcolorcodes.com/assets/images/html-color-codes-color-palette-generators.jpg)
+![Console application](https://i.imgur.com/P1Z1Gqp.png)
 <!--
 **nunojllemos/nunojllemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
