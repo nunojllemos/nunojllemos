@@ -17,6 +17,8 @@ Not anymore 🥳 now I am pointing for a **frontend position**.
 
  ## Interests 👍
 
+🐱‍👤 Next.js  
+🐱‍🏍 Typescript  
 📜 MERN stack
 
 ## Facts & Goals 🎯
