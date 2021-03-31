@@ -1,4 +1,4 @@
-![Javascript Console Application](https://i.imgur.com/HY3wyBG.png)
+![Javascript Console Application](https://i.imgur.com/nv8yuBS.png)
 
 # Hi 👋🏻 I'm Nuno 👦🏻
 ## Welcome to my repo 💾
