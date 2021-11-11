@@ -10,13 +10,13 @@ I am a Javascript lover and a web development enthusiast 🤖
 
  ## Interests 👍
 
-🐱‍👤 Next.js  
-🐱‍🏍 Typescript  
+🚀 Next.js  
+🧠 Typescript  
 📜 MERN stack
 
 ## Facts & Goals 🎯
 
-📚 currently learning Next.js 
+📚 currently learning Next.js & Typescript
 🔮 looking forward to become a full stack developer
 
 ## Contacts 📣
