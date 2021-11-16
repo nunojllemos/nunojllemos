@@ -16,7 +16,7 @@ I am a Javascript lover and a web development enthusiast 🤖
 
 ## Facts & Goals 🎯
 
-📚 currently learning Next.js & Typescript
+📚 currently learning Next.js & Typescript  
 🔮 looking forward to become a full stack developer
 
 ## Contacts 📣
