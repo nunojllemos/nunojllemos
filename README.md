@@ -10,7 +10,7 @@
 
  ## Interests 👍
 
-🖌️ Frontend development
+🖌️ Frontend development  
 💾 Backend development  
 🔐 Cyber security
 
