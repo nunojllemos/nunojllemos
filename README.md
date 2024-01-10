@@ -2,7 +2,7 @@
 
 # Hi 👋🏻 I'm Nuno 👦🏻
 ## Welcome to my repo 💾
-I am a Javascript lover and a web development enthusiast 🤖
+🤖 I am a Javascript lover and a tech enthusiast
 
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunojllemos&layout=compact&theme=dracula)](https://github.com/nunojllemos/github-readme-stats)
@@ -10,18 +10,18 @@ I am a Javascript lover and a web development enthusiast 🤖
 
  ## Interests 👍
 
-👨🏻‍💻 Node js  
-🧠 Typescript  
-📜 MERN stack
+🖌️ Frontend development
+💾 Backend development  
+🔐 Cyber security
 
 ## Facts & Goals 🎯
 
-📚 currently learning Node js & Typescript  
-🔮 looking forward to become a full stack developer
+📚 Currently learning Node js  
+💂 Looking forward to become an ethical hacker 
 
 ## Contacts 📣
 
-✉ nunojllemos@gmail.com
+📩 [nunojllemos@gmail.com](nunojllemos@gmail.com)
 
 🤝🏻 [LinkedIn](https://www.linkedin.com/in/nunojllemos/)
 
